@@ -1,0 +1,46 @@
+# 38. Das Unternehmen Taxiter -- plötzlich wollen hier fast alle agile werden
+
+Das Unternehmen Taxiter – plötzlich wollen hier (fast) alle agile werden
+
+[Open Space, CTO Jean, Auftritt Matty, scrum.org vs Scrum Alliance, Skepsis am Start]
+
+Eine ehemalige Schraubenfabrik in Berlin. Das einstige Wahrzeichen, eine schwarz lackierte Riesenmutter, erhebt sich noch drohend vorm Eingang. Am Klingelbrett sehe ich, dass die Taxiter GmbH drei von sechs Stockwerke belegt. Kommt mir knapp bemessen vor für 150 Mitarbeiter. Man habe noch zwei weitere Stockwerke zur Verfügung gehabt, mit der Pandemie jedoch schnellstmöglich abgegeben, wird mir vom Chief Technical Officer am Empfang im zweiten Stock erklärt.
+CTO Jean muss schon auf mich gewartet haben. Er ist deutlich jünger als ich, trägt eine schwarze Intellektuellenbrille, spricht sehr überlegt und duzt mich bei der Begrüßung. Es sei bereits geklärt, dass bei Taxiter weiterhin hybrid gearbeitet werde, also remote oder im Büro – wie es gerade passt. Die Infrastruktur habe man darauf angepasst. Sämtliche Schreibtische seien mobil und würden nach Bedarf und Team-Zugehörigkeit von den Mitarbeitern tageweise reserviert.
+Er bittet Anna, mich herumzuführen. Sehr viel Open Space ist zu besichtigen, wenige abgetrennte Büroräume, eine Cafeteria mit Herd und diversen Kühlschränken, gleich nebenan die obligatorischen Kicker, aber auch ein Billardtisch, und überall Pflanzen in großen Kübeln. Mein Eindruck: die Einrichtung ist schon agil, Anna und Jean auch, fehlt nur noch der Change in den übrigen Köpfen.
+Was kriegen wir von Rosho.World?, fragt mich Jean bevor er mich der großen Runde präsentiert.
+Ich: Die Rosho.World-Methode und deren Implementierung zur Transformation eures Unternehmens. Hin nämlich zu einer selbstlernenden Organisation, die Innovation fördert, konsequente Verbesserung betreibt und auf Veränderungen schneller reagieren kann. Eine Organisation, die steigende Qualität gewissermaßen eingebaut hat, nämlich iterativ und faktenbasiert, und von ihren Mitarbeitern daher hochgeschätzt wird. Weil sie nicht top-down, sondern im Sinne von supportive Leadership geführt wird. Weil Entscheidungsprozesse transparent sind und Kompetenz und Eigenverantwortlichkeit zählen, Macht und Silo-Denken aber nicht. Weil Fehler als Anregungen zu Lernprozessen geschätzt werden und nicht als Einladung zum Bashing, weswegen daraus eine Unternehmenskultur der Wertschätzung und ständigen Weiterentwicklung erwächst. Weil die Produktivität im Vergleich zu heute damit um rund 35 Prozent und mehr gesteigert werden wird, bei time-to-market bis zu 50 Prozent eingespart werden kann und weil die Motivation und Zufriedenheit der Mitarbeitenden damit hochwahrscheinlich um rund 30 Prozent verbessert wird.
+Jean: Hört sich ambitioniert an, aber gut. Genau das ist gewünscht.
+Ich: Hast du Fragen dazu?
+Jean: Wenn du euer Angebot auf die zwei wesentlichsten Werkzeuge zu dessen erfolgreicher Umsetzung runterbrechen müsstest – welche Werkzeuge wären das?
+Ich: Erstens Iterationen, also Loops, in denen Aufgaben abgearbeitet, auf Qualität geprüft und geliefert werden. Zweitens Retrospektiven, also regelmäßige Meetings, in denen das Team bespricht, was im Team gut gelaufen ist, was nicht so gut funktioniert hat und wo Verbesserungen dringend vonnöten sind.
+Tatsächlich haben Rosho und ich mehr als nur einmal darüber diskutiert, was an erster Stelle kommt – Retros oder Loops? Womöglich gibt es keine eindeutige Antwort darauf. Jedenfalls hat allein die Einführung von Loops und Retros einen starken transformierenden Impuls und bringt ein Unternehmen garantiert voran.
+Danach stellt mich Jean in der großen Runde als Scrum-Experten vor. In meiner anschließenden Selbstvorstellung beschreibe ich das Rosho.World-Konzept, stelle in groben Zügen unser Augmented Leadership Framework vor und versuche gleichzeitig, wie man so sagt, den Ball flach zu halten. Als ich fertig bin und zu Fragen ermuntere, meldet sich ein etwa 35-jähriger Mann und will wissen, bei welcher Organisation ich meine Scrum-Zertifizierungen erworben habe.
+Als ich scrum.org nenne, schüttelt er bloß den Kopf.
+Das war Matty, wird mit Anna später sagen, der Überflieger. Und ein Mensch, der anderen Menschen gern ins Wort fällt. Fachlich extrem gut, persönlich extrem problematisch.
+Auftritt und Beschreibung nehme ich als Einladung zu einem ersten Treffen. Matty mag keinen Open Space und hat sich daher in eines der Konferenzzimmer verkrochen. Die Zertifizierung über Scrum Alliance sei hochwertiger als die durch scrum.org werde ich schon beim Eintreten belehrt.
+Auch gut, erwidere ich – wohl wissend, dass dies begründet zu bezweifeln ist. Einen Moment lang frage ich mich, ob es nicht klüger gewesen wäre, erst mit allen anderen zu sprechen und dann mit ihm.
+Matty: Wir müssen bei Taxiter wegen der aktuellen Gesetzesänderungen viele Funktionen anpassen und auch Erweiterungen an den Start bringen. Da passen sie jetzt als Außenstehender gar nicht rein. Wir brauchen nicht noch mehr Distraction, haben ja diverse Dead Lines einzuhalten.
+Verstehe, sage ich. Ja, die Zeit ist allerdings knapp. Hat mir auch schon die Geschäftsleitung erklärt. Umso drängender ist es, die Firma nun so aufzustellen, dass ihre weitere Existenz keine Dead Line im eigentlichen Wortsinn bekommt. Wissen sie, was ich meine?
+Matty: Nichts gegen sie persönlich … sie sehen hier ’ne Marktlücke und wollen da mit Rosho.World reinstoßen. Aber unter uns, die Teams sind nicht so weit. Habe selbst jahrelang versucht, hier Scrum einzuführen. Leider erfolglos.
+Ich: Aber sie haben es immerhin versucht. Das ist eine gute Nachricht. Häufig braucht es einen zweiten Anstoß, damit ein Change-Prozess wirklich in Gang kommt. Wie gesagt, die Geschäftsleitung wünscht jetzt diese Veränderung. Und zu ihrer Information, wir haben uns nicht aufgedrängt. Die Geschäftsleitung ist an Rosho.World herangetreten. Sie ist dabei einer Empfehlung gefolgt. Rosho.World ist nun damit beauftragt, hier den Change Prozess zu mehr Agilität in Gang zu bringen. Haben sie weitere Fragen dazu?
+Matty: Nicht wirklich.
+ Ich: Die Produktivität geht runter. Da sind die Zahlen eindeutig. Es muss also was passieren. Was würden sie vorschlagen?
+Matty: Mehr Leute einstellen. In den vergangenen Monaten sind einige gegangen.
+Ich: Sie kriegen heute keine guten Entwickler mehr, wenn sie nicht agil arbeiten. Ich weiß, ihr macht ein bisschen Backlog, ein bisschen Kanban, aber keine Iterationen und keine regelmäßigen Zeremonien. Sorry, das ist outdated. Aber da sie ja schon versucht haben, Scrum einzuführen, fehlt womöglich gar nicht mehr so viel.
+Matty verzieht das Gesicht, sagt aber nichts.
+Ich: Verstehe ihre Skepsis. Aber lassen sie uns doch einfach sehen, was geht. Ich finde, wir sollten einen zweiten Versuch wagen, wenn die Geschäftsführung auch dafür ist. Ist natürlich nur ein Vorschlag. Aber was meinen sie? Sind sie dabei?
+Matty: Hmm, ja doch.
+Das freut mich, trompete ich und verlasse das Zimmer.
+Wie wars?, fragt mich Anna.
+Schwer zu sagen, erwidere ich und bitte sie, mir das Organigramm der Firma zu zeigen. Um die Darstellung nicht überkomplex zu gestalten und sehr viele Mitarbeiter vorzustellen, die man sich ohnehin nicht merken kann, hier eine verknappte Beschreibung: Taxiter beschäftigt neun Development-Teams mit je acht bis zehn Developern und fünf Architekten, Anna mit eingerechnet. Die Maintenance der bestehenden Software-Infrastruktur wird teamübergreifend gefahren. Heißt: Rund zehn Prozent des gesamten Zeitkontingents für Entwicklung sind dafür eingeplant. Zudem gibt es ein eigenes Team für Quality Assurance und drei Release Manager. Taxiter verfügt über eine eigene Personalabteilung, eine kleine Rechtsabteilung und eine Buchhaltung mit Kostenstellen. Customer Relations ist zum Teil ausgelagert und wird von Drittanbietern erledigt. Ein sogenanntes mittleres Management gibt es nicht bei Taxiter, dafür aber knapp ein Dutzend Team Leads. Founder und Chief Executive Officer (CEO) von Taxiter ist eine Frau, der ich noch nicht begegnet bin, von der ich aber weiß, dass sie Elvira heißt. Der Chief Financial Officer (CFO) ist ebenfalls eine Frau. Mit ihr hat mich CTO Jean bereits bekannt gemacht.
+Vorab hat mir Anna berichtet, dass Jean der eigentliche Geschäftsführer ist und auch die Systeme und damit verbundenen Produktions- und Maintenance-Prozesse kennt.
+Jean entschuldigt die Abwesenheit von CEO Elvira. Die wäre zwar derzeit auf Urlaub in Griechenland, würde aber regelmäßig auf dem Laufenden gehalten. Anna würde als Product Ownerin für den Change Prozess verantwortlich sein und mich unterstützen. Wir könnten also unmittelbar loslegen.
+Schön, sage ich. Um zu sehen, was machbar ist, müsse ich zunächst weitere Gespräche mit Mitarbeitern führen. Für einen Zweiteindruck, gewissermaßen.
+Jean nickt: Verstehe.
+Anna: Mit Matty hat er schon geredet.
+Jean: Ah, prima. Oder auch nicht.
+Einen Moment schauen wir drei uns still an. Dann müssen alle grinsen.
+
+In Kapitel 38 gelernt:
+Erstens: Supportive Leadership ermächtigt bottom up und fördert Change Prozesse. In Verbindung mit der Einführung von Iterationen (hier auch Loops genannt) und Zeremonien (sehr wichtig: Retros) wird das Unternehmen, die Organisation selbstlernend.
+Zweitens: Laute Superheroes wie Matty können massive Störfaktoren sein.

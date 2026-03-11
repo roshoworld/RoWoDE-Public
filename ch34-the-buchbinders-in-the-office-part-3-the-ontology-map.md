@@ -1,0 +1,27 @@
+# 34. Die Buchbinders im Office -- 3. Teil, die Ontology-Map
+
+Die Buchbinders im Office – 3. Teil, die Ontology-Map
+
+[Good Governance, ein Ausstieg, Parmenides, Entitäten, Ontologie, Silos, KPIs, Entropie]
+
+Mit ist vollkommen klar, dass Dashboards, Ontology-Maps und faktenbasierte Governance einen familiären Rahmen grundsätzlich sprengen. Allerdings, wer die Prinzipien versteht und sie zumindest teilweise anwendet, wird erkennen, wie hilfreich das für ein harmonisches Zusammenleben im Sinne einer gemeinsamen Entwicklung tatsächlich ist.
+Ich: Ihr habt euch auf den Weg zur faktenbasierten Entscheidungsfindung gemacht. Ihr verlasst gerade das Terrain unsicherer Annahmen, die meistens als machtbasierte Entscheidungsgestaltung umgesetzt wurden. Ihr hattet ein Problem damit. Ihr habt das Problem adressiert. Und jetzt sitzen wir hier. Was ihr gewinnt, wenn ihr weitermacht? Good Governance. Das Modell für die Steuerung der Zukunft.
+Ilona: Unsere gemeinsame Zukunft.
+Anna: Hast du schön gesagt.
+Erik: Sorry, Leute, bei der Ontology-Map steige ich aus.
+
+Im fünften Jahrhundert v. Chr., also vor rund 2500 Jahre, lebte im heutigen Salerno in Süditalien, das damals zu Großgriechenland gehörte, ein Philosoph und Mathematiker namens Parmenides. Platon war von ihm so beeindruckt, dass er eigens einen Dialog mit Parmenides als Protagonisten schrieb. Dieser Parmenides erfand das Konzept der Ontologie, eine philosophische Betrachtungsweise der Dinge in Form von Entitäten, der Beginn heutigen Systemdenkens.
+Eine Entität ist etwas ganz einmalig es selbst Seiendes in einem System, also hundert Prozent individuell und damit zweifelsfrei unterscheidbar von allem, was sonst noch in diesem System existiert. Prozesse sind als Interaktionen zwischen Entitäten zu verstehen. Eine Ontology-Map bildet daher alle Entitäten mit ihren Interaktionen und Befindlichkeiten dreidimensional ab. Wir erblicken damit eine Landschaft, die vollständig ist, weil alle Beziehungen, Abhängigkeiten, Hierarchien und Prozesse auf einmal sichtbar werden. Komplexeste Systeme werden so auf einfache und verständliche Art darstellbar.
+„Ontology-Maps haben die Macht, uns die komplexesten Systeme auf einfache Weise vor Augen zu führen, und sind ein fantastisches Mittel zur Verbesserung der Entscheidungsfindung“, erklärt Rosho.
+Menschen haben die Tendenz, sich in Silos zu verkriechen und würden daher von Natur aus zum Silo-Denken neigen. Nur langsam entwickeln wir unser Denken weiter zu einem Netzwerk- oder Ontologie-Verständnis. Aber Silo-Denken könne nicht das ganze System überblicken, sondern bestenfalls ein Meta-Silo erfassen. Zwar würden Silo-Denker für eine Vielzahl von Aufgaben gebraucht. Doch seien Silo-Denker nicht gut in der Entscheidungsfindung, weil ihnen nun mal der Überblick fehle. Ein System als Ganzes abzubilden und zu visualisieren sei unglaublich mächtig und bewusstseinsbildend.
+„Vor allem, wenn wir anfangen, den Entropie-Quotienten als Meta-Key Performance Indicator für Nachhaltigkeit zu verwenden.“ An dem Tag, an dem wir eine vollständige Landschaft mit allen Beziehungen, Abhängigkeiten und Hierarchien sehen und Farbcodes für Meta-KPIs wie Gesundheit und Nachhaltigkeit, Risiko oder Reifegrad verwenden würden, werde uns die Fragilität unserer Systeme mit voller Wucht bewusst.
+Eine sehr klassische High-Level-Ontologie sei zum Beispiel Mensch - Prozess - Technologie, die bei allen Initiativen zur digitalen Transformation in dieser Reihenfolge gelten sollte. Die unglaublich hohe Misserfolgsquote bei Transformationen zeige jedoch, dass selbst solche einfachen Ontologien nur von wenigen Menschen verstanden würden, da Technologie in der Regel an erster Stelle stehe und Menschen und Prozesse dahinter.
+„Das Ontologie-Konzept nach Parmenides ist ein Riesenschritt in der Entwicklung abstrakter rationaler Verstandesfähigkeiten“, sagt Rosho, „und so ausgeklügelt, dass sehr viele Menschen auch heute noch damit kämpfen, das Konzept der Aufteilung der Realität in Entitäten und Prozesse zu verstehen.“
+„Ich fürchte, ich gehöre auch in die Gruppe dieser Nicht-Versteher“, bekenne ich.
+„Der Blick auf eine Ontology-Map ist so bewusstseinserweiternd wie der Blick aus dem Weltraum auf die Erde. Und ein fantastisches Mittel zur Verbesserung der Entscheidungsfindung. Durch einfache Datenvisualisierung und Ontologie-Maps in Verbindung mit Entropie-Quotienten bekommen wir ein besseres Verständnis komplexer Systeme.“
+„Glaubst du, dass sich eine Familie in der Realität, also nicht bloß in unserem Buch so etwas tatsächlich nutzen wird? Oder soll ich besser ‚antun wird‘ sagen?“
+„Ich tue es mir jedenfalls mit meiner Familie immer mehr an. Und alle sind begeistert. Kannst Yuko fragen.“
+
+In Kapitel 34 gelernt:
+Systeme bestehen aus Entitäten und den Wechselbeziehungen zwischen Entitäten, die auch als Entitäten zu betrachten sind. Eine Ontology-Map bildet diese Entitäten ab und fördert somit das Verständnis komplexer und hochkomplexer Zusammenhänge.
+So kann beispielsweise auch der Grad der Unordnung in einem System (Entropie) abgebildet und – mit Leistungskennzahlen versehen – in die Berechnung und damit Darstellung einfließen. Sehr wertvoll beim Übergang von der vorwiegend mechanischen Welt in eine zunehmend digitale. Die Nutzung von Ontology-Maps erleichtern die Transformation – wenn sie nicht sogar unverzichtbar dafür sind.

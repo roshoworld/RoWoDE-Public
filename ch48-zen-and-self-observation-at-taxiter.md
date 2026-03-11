@@ -1,0 +1,31 @@
+# 48. Zen und Selbstbeobachtung bei Taxiter
+
+Zen und Selbstbeobachtung bei Taxiter
+
+[Rosho als Zen-Meister, Selbstbeobachtung, Schlüsse aus dem CRM-Meeting, Governance mit Software von Rosho.World]
+
+Kürzlich habe ich ein Foto an einem der Kühlschränke im Rosho-Office entdeckt, das ich bisher offenbar nicht bemerkt hatte. Darauf zu sehen: Ein Mann mit blondem Haaren, europäischen Gesichtszügen und rundlicher Statur, gekleidet in einem elfenbeinfarbenen Anzug asiatischen Schnitts und ungewöhnlichen Faltenwurfs. Der Anzug wirkt wie eine zeremonielle Tracht und schimmert edel, weil er wahrscheinlich aus glänzender Seide gewoben ist. Der Mann steht leicht vornübergebeugt und hält mit beiden Händen einen Bambusstab hoch erhoben. Direkt vor ihm, zu seinen Füßen, so gesehen, hockt ein Mann mit asiatischen Gesichtszügen, den Oberkörper leicht zur Seite gewandt, wie um einem oder mehreren Schlägen auszuweichen. Auch diese Person ist ungewöhnlich gekleidet. Nämlich in einem grauen Anzug mit schwarzem Stehkragen, dem japanischen Arbeitsanzug ähnlich, den Rosho mir kürzlich geschenkt hat.
+Links und rechts jenes Mannes auf dem Boden, der einem bei dieser Betrachtung bedauernswert erscheinen könnte, hocken weitere acht Männer. Alle haben die Augen geschlossen und sitzen ungewöhnlich gerade. Tatsächlich wirken sämtliche Personen, auch der Blonde mit der rundlichen Statur, als befänden sie ich in einem Zustand der Meditation oder zumindest meditativen Handelns und das ganz zweifelsfrei einvernehmlich. Denn obwohl der Akteur mit dem Bambusstab diesen so hoch erhoben hat, als wollte er mit Kraft zuschlagen, und die Person zu seinen Füßen, so in einer Seitenbewegung erfasst ist, als wäre dies auch gerade geschehen, so wenig ist gleichzeitig der emotionale Ausdruck von Gewalt auf einem der Gesichter zu erkennen. Im Gegenteil, alle wirken miteinander entrückt und damit auf eine seltsame Weise umso gegenwärtiger. Abwesend ist der Ausdruck von Aggression.
+„Du hast früher Zen-Meditation praktiziert?“, frage ich Rosho als er gerade mit zwei Kaffeetassen in der Hand an mir vorbei ins Arbeitszimmer segeln will.
+„Praktiziere ich immer noch“, erwidert er, ohne sich vom Weg abbringen zu lassen.
+„Und hast du auch Zen-Meditationen geleitet?“, rufe ich ihm hinter und folge gleichzeitig.
+„Ich bin ja zum Meister ordiniert. Besonders Spaß gemacht hat mir, beim Zazen mit dem Bambusstab in der Hand herumzugehen und Leute, die bei der Meditation eingeschlafen waren, mit einem Schlag auf die Schulter aufzuwecken. Kennst mich ja, Weckrufe liegen mir. Mancher hat sich da schön erschrocken.“ Sein Lachen kullert ihm hinterher als er ins Arbeitszimmer verschwindet.
+Als ich ihn eingeholt habe, erklärt er: „Zen ist die Kunst der radikalen Selbstbeobachtung. Zen aktiviert eine Superposition des Geistes. Aus der Perspektive erweist sich das Ego als banal und fällt über die Abrisskante des Bewusstseins. Es erwächst Freiheit. Schlaf ist der Feind der Selbstbeobachtung und damit ein Gegner der Freiheit. Die Schläfer gehören aufgeweckt. Und das passiert jetzt auch in Organisationen, in der Wirtschaft. Schläfer wachen auf.“
+„Und dann sind wir da“, sage ich.
+„Zur Not mit dem Bambusstab.“ Die Vorstellung scheint ihm Freude zu bereiten. „Dann reiben sich die Manager schlaftrunken die Augen und fragen sich, wie ihnen gerade geschieht. Im ersten Moment wollen sie den Change wieder abblasen, doch dann sehen sie erste Zahlen, rekeln sich und wollen weitermachen. Wir helfen Firmen und Organisationen bei der Selbstbeobachtung. Das ist womöglich die wichtigste Neuerung: Struktur bekommt jetzt Bewusstsein.“
+Nach dem Satz nippen wir mehrere Minuten still an unseren Kaffeetassen. Die Zeit dehnt sich und eine Zeitlang denke ich gar nichts. Bis mir das Foto am Kühlschrank wieder einfällt.
+„Eine Montage“, sagt Rosho mit einem breiten Lachen. „Mein Kopf auf einem anderen Körper. Ich habe viele Zazen genauso geleitet, doch gibt es kein einziges Foto davon, denn das Fotografieren war bei den Meditationen natürlich strikt verboten.“
+Schläfer müssen erwachen, denke ich. Auch aus dem komfortabel anmutenden Dämmer ihrer Leichtgläubigkeit.
+
+Selbstbeobachtung zentral, erkläre ich beim nächsten Besuch im Taxiter-Office, CTO Jean gegenübersitzend, mit Blick auf den Miro, denn in mir ist nach Roshos Erklärungen auch eine Sonne aufgegangen.
+Wie meinst du das?, will Jean von mir wissen.
+Genau wie ich es sage, erwidere ich. Taxiter wird nun als Unternehmen die Kunst der Selbstbeobachtung erlernen.
+Jean: Klingt esoterisch.
+Ich: Ist aber, im Gegenteil, geradezu wissenschaftlich, weil auf Zahlen beruhend.
+Nemawashi Aligning Decisions im CRM-Team, dass ich von nun an Team Bea nennen werde, hat Folgendes ergeben: Iteration als 14-tägiger Go ist gewünscht und wird daher schon am kommenden Montag mit einem ersten Go-Planning gestartet. Tägliche Meetings sind nicht gewünscht, doch an zwei Tagen in der Woche je ein Kurzmeeting wurde für gut befunden. Also beginnt jeder Montag mit einer Go-Reso von allerhöchstens 20 Minuten, gefolgt von einer Go-Reso an jedem Donnerstag zum Arbeitsbeginn. Um welchen Zeitpunkt es sich dabei genau handeln wird, legt das Team selbst fest, jedoch verlässlich für die nahe Zukunft. An jedem letzten Donnerstag im jeweiligen Go findet nach dem Mittag eine Go-Review statt, wo die fertig gestellte Arbeit im Team vom Team bei gleichzeitiger Anwesenheit der Geschäftsleitung und womöglich auch externer Stakeholder begutachtet, kritisiert und hoffentlich auch wertgeschätzt wird. An jedem letzten Freitag wiederum dann die Go-Retro unter Ausschluss der Geschäftsleitung und externer Stakeholder sowieso, wo das Team die eigene Arbeitsweise, ihre Zusammenarbeit, mögliche Fehler in der Teamarbeit und Verbesserungsvorschläge diskutiert. Die Governance-Software von Rosho.World wurde bereitgestellt. Bea wird alte und neue Zahlen eintragen und die Metrics pflegen.
+Jean: Selbstbeobachtung, die auf Zahlen beruht, verstehe.
+Er blickt an mir vorbei zur Tür, durch die gerade Anna tritt.
+Hey, sagt sie, da draußen ist eine Revolution im Gange. Ihr habt keine Ahnung, wie viel gerade geredet wird.
+
+In Kapitel 48 gelernt:
+Auf Zahlen, Daten, Fakten beruhende Selbstbeobachtung hat nichts mit Esoterik zu tun, sondern viel mehr mit kontinuierlicher Optimierung in der Firma, im Team. Mathematisierte Selbstbeobachtung ist wertvoll.

@@ -1,0 +1,22 @@
+# 10. Das Betriebssystem des Universums
+
+Das Betriebssystem des Universums
+
+[Entropie, Thermodynamik, kleine Anfänge, das größte OS aller Zeiten, viele abgebrannte Streichhölzer und ein Recycling-Team]
+
+Wenn Rosho mit Dummheit konfrontiert wird, kann er sehr ärgerlich werden. „Ich erkläre dir alles gern dreimal“, hatte er mir zu Beginn meines ersten Arbeitstages gesagt. „Beim vierten Mal werde ich ungeduldig und beim fünften Mal unfreundlich. Daher empfehle ich dir, Notizen zu machen. Und, sehr wichtig, frage nach, wenn du etwas nicht verstehst. Dass ich unfreundlich werde, das möchtest du nämlich nicht erleben.“
+Inzwischen weiß ich, wovon er spricht – wenn auch bisher nicht durch Erfahrungen, die lange Leitungen bei mir selbst betreffen. Trotzdem fällt mir auf, dass ich meine Stimme senke als ich sage: „Angenommen, die Welt weigert sich als Projekt gesehen zu werden … Angenommen, das, was du dir vorgenommen hast, ist womöglich ein paar Nummern zu groß … Angenommen, deine Methodik zur Steuerung von Projekten ist zwar so einfach wie wunderschön, aber es wird keine Gelegenheit geben, sie auch im genannten großen Stil anzuwenden …“ Es einer dieser Morgen, die mit zu vielen unbeantworteten Mails und dem Löschen von noch mehr Spam begonnen haben. Umso mehr bin ich bemüht, mich klar auszudrücken. „Können wir mit Rosho.World eigentlich auch kleiner anfangen?“
+„Was für eine Frage!“, erwidert Rosho lachend. „Machen wir doch ohnehin schon die ganze Zeit. Wir ziehen Karren aus dem Dreck, die andere hineingefahren haben. Wir bringen Ordnung ins Chaos und besiegen es. Wir retten Firmen, kleine und große Unternehmen. Wir sind seit zwanzig Jahren die Feuerwehr für gestrandete Projekte. Genau dafür werde ich bezahlt. Und du jetzt auch. Wundert mich schon, dass du das noch in Frage stellst.“
+Ah, die Vorahnung von Ärger seinerseits. „Nein, nein“, beeile ich mich abzuwiegeln, „aber vergessen wir mal die Welt. Ich …“
+„Halt“, unterbricht er mich. „Die Welt vergessen dürfen wir nicht. Zu keinem Zeitpunkt. Das ist in diesen Räumen absolut verboten. Aber klein anfangen … das ist okay. Wir fangen hier auch gerade klein an. Nämlich mit kleinen Schritten in die Richtung von grundsätzlichen Erklärungen.“
+„Dann bitte der Reihe nach“, sage ich und höre Erleichterung in meiner Stimme, gleichzeitig unschlüssig, wie klein die Schritte in die Richtung der Erklärungen wohl sein sollten. „Das Betriebssystem des Universums, beispielsweise …“, setzte ich kleinlaut an.
+„… funktioniert nach den Gesetzen der Thermodynamik“, führt er aus. „Das besagt, Energie geht zwar nicht verloren, wird aber durch wachsende Komplexität unzugänglich. Anders ausgedrückt: Du kannst ein Streichholz nur einmal anzünden. Wenn es abgebrannt ist, ist die drin gespeicherte Energie verloren. Stell dir vor: Einst war das Streichholz ein Samen, der zum Trieb und schließlich, mit viel Sonne, Wasser und Nährstoffen zum Baum wurde. Der Baum wurde irgendwann gefällt, um, sagen wir, Streichhölzer daraus zu machen. Klar, da brauchte es noch Phosphor und weitere Chemie, um es mit einer Reibe entflammbar zu machen. Aber was bleibt vom Baum, wenn alle Streichhölzer abgebrannt sind? Das ist das Prinzip der Entropie. Man könnte auch wachsendes Chaos dazu sagen. Wohin man auch blickt, nimmt die Unordnung prinzipiell zu. Jede Ordnung ist endlich.“
+Er blickt mich aufmunternd an: „Du kannst die Gesetze der Thermodynamik ignorieren, aber die Thermodynamik ignoriert dich nicht.“
+Rumms. Wieder so ein Satz, der in die Neuronen kracht.
+„So simpel und unausweichlich?“, frage ich.
+„Schau dich um“, sagt er, „und zeige mir einen Ort, wo die Gesetze der Thermodynamik nicht gelten. Will man das Universum-OS verstehen, muss man sich mit dieser eingebauten Tendenz zur Unordnung befassen. Das Beseitigen von Unordnung und Wiederherstellen von Ordnung kostet sehr viel Energie. Die Menschheit brennt derzeit jedenfalls viel zu viele Streichhölzer ab. Das Ergebnis ist Waste. Verlorene Energie. Auch die meisten Firmen produzieren entsetzlich viel Abfall.“
+„So gesehen arbeiten wir für die Müllabfuhr“, witzele ich.
+„Im Gegenteil“, erwidert Rosho ernsthaft. „Wir sind die Transformatoren und gehören zum Recycling-Team.“
+
+In Kapitel 10 gelernt:
+Das Universum funktioniert auf Grundlage der Thermodynamik. Bedeutet: Nichts geht verloren. Unordnung nimmt prinzipiell zu, Chaos wächst.

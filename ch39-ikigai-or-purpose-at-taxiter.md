@@ -1,0 +1,23 @@
+# 39. Ikigai oder Purpose bei Taxiter
+
+Ikigai oder Purpose bei Taxiter
+
+[Eine Blüte für ein langes und erfülltes Leben, eine zweite Blüte für Entwicklung]
+
+Szenenwechsel: Rosho hat ein interne Lerngruppe für Rosho.World gegründet. Das Ziel: eine Einführung in SAFe und das hauseigene Augmented Leadership Framework.
+Zur Vorbereitung führt er fünf weitere Teilnehmer und mich durch eine Reihe von Slides. Ein zentrales Topic dabei: Ikigai, das japanische Modell für ein langes und erfülltes Leben. Als Grafik aufgemalt erinnert Ikigai an eine Blüte. Die Blüte besteht aus vier Kreisen, die so angeordnet sind, dass sie einander überschneiden. So entstehen große Felder, aus deren Überschneidungen vier kleine und ein Feld in der Mitte. Das Feld in der Mitte steht für Ikigai, also ein langes und erfülltes Leben, kurz: Balance in diesem Zusammenhang.
+Da die Kreise in den vier Himmelsrichtungen angeordnet sind, befindet sich ein Kreis oben, einer unten, einer links und der vierte rechts. Der Kreis oben steht für: Was du liebst. Der Kreis unten: Wofür du bezahlt wirst. Der Kreis links: Worin du gut bist. Der Kreis rechts: Was die Welt braucht.
+In den vier kleineren Feldern, angeordnet wie ein X, steht links oben (die Überschneidung aus dem, was du liebst und dem was du gut kannst): Passion. Rechts oben (die Überschneidung von dem, was du liebst und was die Welt braucht): Mission. Links unten (Überschneidung aus dem, was du gut kannst und wofür du bezahlt wirst): Profession. Rechts unten (Überschneidung aus dem, was die Welt braucht und wofür du bezahlt wirst): Vocation.
+
+
+
+Nach der Rosho.World-Methode kann Ikigai auch sehr aussagekräftig für Unternehmen sein. Dann steht der obere Kreis für: Was das Unternehmen produzieren möchte. Der untere Kreis für die Antwort auf die Frage: Wird das Unternehmen für ihr Produkt / ihre Leistung so bezahlt, dass es damit prosperiert? Der Kreis links steht für: Das Produkt, die Dienstleistung, die das Unternehmen am besten liefern kann (im Sinne einer Leistung, die herausragt). Und der Kreis rechts steht für die Antwort auf die Fragt: Braucht die Welt das Produkt / die Leistung des Unternehmens?
+„Was braucht die Welt?“, will Pearl wissen, eine junge Chinesin aus Hong Kong, die eine Model-Agentur leitet und agiles Arbeiten lernen will.
+„Das ist von vielen Faktoren abhängig“, erwidert Rosho. „Die jeweilige Kultur ist wahrscheinlich der wichtigste davon.“
+„Wie definierst du Kultur?“, setzt Martin nach, ein Unternehmensberater aus Glasgow.
+„Kultur ist das, womit wir aufwachsen. Der größte Teil davon ist implizit und uns nur teilweise bewusst. Unsere Handlungen sind von unserer jeweiligen Kultur geprägt, wie auch unsere Bedürfnisse. Mehr weiß ich auch nicht. Das Rätsel Kultur hier erklären zu wollen, würde den Rahmen definitiv sprengen. Bist du mit dieser Antwort zufrieden, Martin?“
+Als der zustimmend nickt, erklärt Rosho: „Nur wenn die vier Aspekte in Balance sind, ist Ikigai gegeben, nämlich eine lange und sinnvolle, weil nachhaltige Existenz des Unternehmens.“ Diese graphische Darstellung sei wie eine Landkarte zu sehen und zu lesen. Lediglich die Position im Zentrum ist gesund. Jede andere verkörpert Imbalance und damit wachsende Probleme.
+Doch wenn Ikigai gegeben ist, wie werden einzelne Vorhaben oder auch die Weiterentwicklung des gesamten Unternehmens für nachhaltigen Erfolg optimiert? Die Antwort darauf liefert eine weitere Methode: Tebiki Making Decisions.
+
+In Kapitel 39 gelernt:
+Erstens: Ikigai – „Wofür es sich zu leben lohnt“, auf Unternehmen und Vorhaben angewandt. 1. Frage: Was möchtest du produzieren? Generelle Antwort: Wahrscheinlich ein Produkt, womit sich die Firma identifizieren kann, also gern produziert. 2. Frage: Braucht die Welt das? Wenn die Antwort ein Nein oder Jain ist, gibt es bereits an der Stelle ein Problem. 3. Frage: Wirst du für das, was du lieferst, gut bezahlt werden? Ganz klar, es gibt Produkte und Leistungen, die unterbezahlt werden, womit sie womöglich unwirtschaftlich werden. 4. Frage: Hast du Kenntnisse und Fähigen, um das, was du produzieren möchtest, gut bis sehr gut zu produzieren? Wenn die Antwort auf die Frage kein eindeutiges Ja ist, zeichnet sich das nächste Problem ab. Diese vier Fragen werden am besten von mehreren Wissensträgern in einem gemeinsamen Meeting beantwortet, dann mit Prozentangaben versehen, um berechenbar zu werden. Ikigai ist bei Resultat in der Mittelposition oder der Nähe davon gegeben. Wenn dem so ist, ist der Zweck (anglisiert: Purpose) definiert. Nicht in Stein gehauen und für alle Zeiten. Denn ob der Zweck weiterhin valide ist, will mit dem gleichen Verfahren in regelmäßigen Abständen überprüft werden.

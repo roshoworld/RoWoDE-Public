@@ -1,0 +1,16 @@
+# 19. Patching, Tipping Points und ein virtuelles Familiensystem
+
+Patching, Tipping Points und ein virtuelles Familiensystem
+
+[Geflickte Software, Kipp-Punkte, Genezareth, methodische Ordnung und der Scope auf die Familie]
+
+„Alles klar bei dir?“, fragt mich Rosho als ich am nächsten Morgen mit müdem Gesicht im Büro erscheine.
+Habe gestern Nacht noch lange über Begriffen gebrütet, deren Bedeutung ich oberflächlich kannte, jedoch bisher nicht in der Tiefe verstanden hatte. Die meisten Begriffe, von denen die Rede ist, stammen aus dem Lean-Management und der sogenannten „schlanken Produktion“ und der IT. „Patching“ etwa. Damit sind kleinere Fehlerbehebungen in der Software gemeint. Bildlich gesprochen ist ein Patch ein Flicken, auf einer Hose beispielsweise. Das Problem dabei: Vor lauter Flicken sieht man irgendwann die ursprüngliche Hose nicht mehr. Damit rückt ein sogenannter Tipping Point näher – der Moment, in dem ein System kippt und nicht länger arbeitsfähig ist. Um bei der Hose zu bleiben: Wenn sie schließlich nur noch aus Flicken und Nähten besteht, reißt sie bei der geringsten Bewegung. Kenne ich selbst aus meinen Teenie-Zeiten. Mutter musste bunte Flicken auf meine Jeans nähen – bis sie irgendwann zu Tode geflickt wie von selbst auseinanderfielen. Ein Problem, das man auch aus dem Software-Patching kennt. Mit den vielen Fehlerbehebungen wird eine Software immer komplexer – und schließlich überkomplex. Und mit dem nächsten Reparaturversuch ist plötzlich der Tipping Point erreicht. Die Software lässt sich nicht mehr flicken und ist plötzlich nicht mal mehr lauffähig. Es gibt Tipping Points auf Unternehmensebene. Das Ergebnis kann Insolvenz heißen. Der TP einer Ehe läuft meistens auf Scheidung hinaus. Der individuelle TP kann der Zusammenbruch nach einer Reihe von Schicksalsschlägen sein. Der TP der Welt ist der Klimawandel mit seinen Folgen – falls diesem nicht ein kapitalwirtschaftlicher TP zuvorkommt.
+„Jetzt reden wir wieder von Entropie und dem Versuch, wachsendem Chaos mit methodischer Ordnung zu begegnen“, kommentiert Rosho.
+„Wie funktioniert methodische Ordnung nach Rosho.World in einem Familiensystem?“, frage ich, um unseren Scope wie verabredet neu zu justieren.
+„Willst du das am Beispiel meiner Familie erfahren?“, fragt Rosho zurück.
+„Nein, nein“, wiegele ich ab. „So interessant für mich dein Bericht von der Nanni-Retro auch war, das wäre zu privat. Lass uns von einer imaginären Familie ausgehen. Wie fändest du das?“
+„Schöne Idee“, bestätigt mein Gegenüber und erzählt mir dann: „Am See Genezareth wurde kürzlich ein Fischerdorf entdeckt. Es soll fast 20.000 Jahre alt und damit die älteste bisher entdeckte Ansiedlung der Welt sein. Dort lebten wohl bereits Familien. Familie als soziale Entität gäbe es demnach also seit mindestens 20.000 Jahren. In der Familie, da hakt’s oft, und das nicht erst seit gestern. Versteht jeder. Sollten wir so machen. Magst du das mal ausarbeiten?“
+
+In Kapitel 19 gelernt:
+Die Welt ist voller Tipping Points (TPs). Ein TP markiert den Augenblick, indem ein System nicht länger funktionsfähig ist. Partnerschaften, Familien, Klein- und Großbetriebe sowie Systeme überhaupt, zum Beispiel das Stromnetz eines oder mehrerer Länder können einen TP erreichen. Das Ergebnis heißt Zusammenbruch, Kollaps oder Blackout und ist häufig nicht umkehrbar.

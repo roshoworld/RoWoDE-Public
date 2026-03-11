@@ -1,0 +1,63 @@
+# 4. Die Firma meines Verwandten -- drittes Beispiel
+
+Die Firma meines Verwandten – drittes Beispiel
+
+[Pumpen, Kraftstoff, Iterationen, kontinuierliches Lernen und Augmented Leadership]
+
+Nun Problem Nummer Drei: die Firma meines Verwandten. Wie gesagt, Kraftstoffpumpen werden im Morgendämmer der Elektromobilität immer weniger gebraucht. Gebraucht werden Ideen für ein neues Geschäftsmodell.
+Mein Verwandter ist einer von vier Inhabern und hat intensiv über Möglichkeiten zu ihrer Rettung nachgedacht. Ihm ist jede Menge in den Sinn gekommen, nur noch keine zündende Idee. Daraufhin schließt er sich mit den übrigen drei Eignern zu einem gemeinsamen Brainstorming in einer Berghütte ein. Zusammen wollen sie eine Lösung entwickeln. Sehr schnell fällt ihnen ein, dass sie zum Finden einer Lösung Zigarren einer bestimmten Marke und zwei verschiedene Sorten von schottischem Whiskey benötigen. Ein Anruf im Backoffice löst das Versorgungsproblem und sorgt für Heiterkeit in der Firma.
+Mit dem Nachklang eines Katers trudeln die vier schließlich wieder zurück ins Büro, werden rücksichtsvoll belächelt und fühlen sich wie kleine Jungs nach einem misslungenen Streich. An einer möglichen Lösung ihres Problems müssen sie auf ihrem Ausflug vorbeigetorkelt sein.
+„Was wäre dein Lösungsweg?“, frage ich Rosho.
+„Jedenfalls nicht der Suff in der vagen Hoffnung, dass eine schamanische Trance daraus wird.“
+„Sondern?“
+„Zunächst mal ist das ja ein typisches Problem mittelständischer Unternehmen. Deren Geschäftsmodelle entstammen dem 19. Jahrhundert. Sie funktionierten noch im 20. Doch im 21. ist Schluss. Sie haben den längst fälligen Change verschlafen. Wandel der Mobilität. Wandel der Energie. Wandel durch Digitalisierung. Alles auf einmal. Ein Dammbruch. Nun wird es plötzlich eng. Was tun?“ Er blickt mich fragend an, obwohl ich ihn ja gerade befrage.
+„Ja, was?“, frage ich zurück.
+„Die Antwort ist naheliegend“, erwidert er. „Kraftstoffpumpen.“
+„Wie bitte?“, frage ich, leicht verärgert, weil ich den Verdacht habe, dass er mich verschaukeln will oder zumindest das Problem meines Verwandten nicht ernst nimmt. Vielleicht habe ich ihn auch mit Fragen zur Situation meines Freundes überfordert.
+„Im Gegenteil“, erwidert er. „Du hast mich damit inspiriert. Und ich meine, was ich gerade gesagt habe. Pumpen wird man auch in Zukunft brauchen und Kraftstoff in irgendeiner Form auch. Pumpen und Kraftstoff, in der Verbindung besteht die Kompetenz des Unternehmens, darauf ist der Vertrieb ausgerichtet. Die nächste logische Frage wäre, wenn man kein Benzin oder keinen Diesel mehr pumpen kann, was dann?“
+„Wasserstoff womöglich“, fantasiere ich.
+„Zum Beispiel“, erwidert er. „Oder Milch oder was auch immer …“ Er blickt mich abwartend an, redet schließlich weiter. „Als erstes müsste man die Kompetenz der Firma so genau wie möglich beschreiben. Dann müsste man im Unternehmen mit den dortigen Wissensträgern nach Ideen suchen. Nicht irgendwelche Ideen, wie etwa die Produktion von Blutdruckmessgeräten oder sonstigem technischen Zeugs, wofür in der Firma nicht die geringste Expertise vorhanden ist. Gesucht würden naheliegende und plausible Ideen. Ideen, die im Unternehmen beschäftigte Experten umsetzen können und die der Vertrieb über sein Netzwerk dann verkaufen und liefern kann.“
+Seltsam, ich habe den Eindruck, dass ich etwas erzählt bekomme, was ich eigentlich bereits weiß, nur nicht – wie er – hätte aussprechen können.
+„Ideen für eine Lösung, plausible Ideen, das sind ja zunächst Visionen und keine Lösungen …“ Er blickt an mir vorbei. „Ich nenne sie mal folgerichtige Visionen, weil sie zu den Kompetenzen des Unternehmens passen, okay?“
+„Okay“, bestätige ich.
+„Angenommen, das Unternehmen deines Verwandten organisiert die Suche nach folgerichtigen Visionen und ist auch erfolgreich damit. Drei Möglichkeiten stehen zur Auswahl.“ Er wendet sich wieder mir zu, schaut mich kurz abwartend an, spricht dann weiter. „Spielen wir das einmal durch. Das Unternehmen baut und liefert Kraftstoffpumpen, das ist sein Zweck. Doch Diesel und Benzin sind out, also müssen andere Stoffe gepumpt werden.“
+„Welche, wofür und wohin …“, sage ich, um Teil der Lösung zu sein.
+„Genau“, erwidert er. „Fangen wir mit Milch an, so abwegig das erscheint. Muss auch gepumpt werden. Dann Wasserstoff, der Treibstoff der Zukunft. Und, sagen wir, Kerosin, eigentlich von gestern, wird auch ersetzt werden, aber nicht so schnell wie Benzin und Diesel. Die drei als Beispiele.“
+„Spannend“, kommentiere ich.
+„Milch. Braucht die Welt Milchpumpen?“
+„Für die Produktion von Käse, Joghurt und so wahrscheinlich“, mutmaße ich.
+„Ja“, bestätigt Rosho. „Doch der Markt ist wahrscheinlich viel kleiner als der Markt der Autoindustrie.“
+„Wahrscheinlich“, sage ich.
+„Hat die Firma deines Verwandten Erfahrung in der Entwicklung und Produktion von Milchpumpen?“
+„Eher nicht“, sage ich.
+„Ist also damit zu rechnen, dass die Firma mit der Entwicklung und dem Vertrieb von Milchpumpen gute Gewinne machen wird?“
+„Ganz klar, nein“, sage ich.
+„Okay, nun Kerosin. Um den Kraftstoff zu pumpen, müssten die bereits entwickelten Pumpen womöglich nur angepasst werden. Braucht die Welt Kerosinpumpen. Noch, allerdings nicht mehr lange. Und der Markt ist auch längst zwischen anderen Playern aufgeteilt. Ist also damit zu rechnen, dass die Firma deines Verwandten mit der Entwicklung und dem Vertrieb von Kerosinpumpen ein nachhaltiges Geschäftsmodell aufsetzen könnte?“
+„Wiederum eindeutig nein“, sage ich.
+„Nun Wasserstoff“, sagt er und schaut mich mit glänzenden Augen an. „Pumpen, so habe ich kürzlich gelesen, spielen beim Übergang in die Wasserstoffwirtschaft eine entscheidende Rolle. Sie werden vielfältig gebraucht. Erste Frage, braucht die Welt also Wasserstoffpumpen?“
+„Eindeutig, ja“, sage ich und muss grinsen dabei.
+„Würde sich die Firma deines Verwandten der Entwicklung und Produktion von Wasserstoffpumpen mit Freude und Hingabe widmen wollen?“
+„Höchstwahrscheinlich“, sage ich. „Mein Verwandter interessiert sich für Ökologie. Er brennt wahrscheinlich sogar darauf, alte Verbrenner-Technologie loszulassen.“
+„Letzte Frage: Kann die Firma Wasserstoffpumpen entwickeln und erfolgreich an den Markt bringen?“
+„Wer, wenn nicht sie?“, frage ich zurück. „Immerhin ist die Firma ja in einem sehr verwandten technischen Segment bereits erfolgreich tätig.“
+„Genau!“, freut sich Rosho und klatscht mit den Handflächen auf seine Oberschenkel. „Jetzt hast du es.“
+„Das ist also deine Lösung für das Problem meines Verwandten?“, frage ich.
+„Fast“, erwidert er. „Angenommen, Wasserstoffpumpen sind der neue Zweck der Firma, und es wurden drei möglich Strategien entwickelt, um diesen Zweck zu realisieren. Die erste – Wasserstoffpumpen für die Stahlindustrie. Die zweite – Wasserstoffpumpen für die Flugzeugindustrie. Die dritte – Wasserstoffpumpen für die Autoindustrie.“
+„Dann hätten wir drei Varianten zur Realisierung des neuen Zwecks der Firma“, fasse ich zusammen.
+„Um alle drei zu realisieren, dafür fehlen der Firma ziemlich sicher die Mittel. Man muss sich für eine, höchsten zwei entscheiden. Also ist eine Hierarchisierung der Varianten nötig“, erklärt Rosho. „Dafür brauchen wir vier grundlegende Aspekte. Der erste Aspekt – der Zweck. Ist bei allen drei Varianten bereits klar formuliert. Dann – Werte. Das kann zum Beispiel Nachhaltigkeit in ökologischem Sinne sein wie auch Haltbarkeit und Präzision, also funktionale Genauigkeit mit einer minimalen Abweichungs-Range. Dann – Energie. Wieviel Entwicklungsarbeit muss wahrscheinlich aufgebracht werden, bemessen etwa in Personentagen, um einen Prototypen zu bauen. Kurz – bei Energie geht es hier im Wesentlichen um Cash. Hat die Firma überhaupt die Mittel, um so ein Projekt durchzuführen? Schließlich der vierte Aspekt – die Realität. Was sind die Gegebenheiten im Sinne von äußeren Einflüssen, Bedingungen, Risiken, unter denen die Entwicklung einer Wasserstoffpumpe für den jeweiligen Bereich stattfindet?“
+„Dazu gehört auch mögliche Konkurrenz?“, frage ich.
+„Klar“, erwidert er. „Die Realität, das sind sämtliche möglichen äußeren Hindernisse, nicht zuletzt Konkurrenz, die vielleicht schon einen Schritt weiter ist.“
+„Okay“, sage ich. „Wenn diese Aspekte also für die drei Strategievarianten Pumpen für die Stahlindustrie, Flugzeugindustrie oder Autoindustrie geklärt sind, was dann?“
+„Dann würde man die Aspekte für jede der drei Strategievarianten auf einer Skala von 0 bis 100 % schätzen. Tatsächlich in einem großen Meeting mit den Wissensträgern der Firma. Aus dem Ergebnis würde sich eine Hierarchie der Plausibilität ableiten lassen. All drei Varianten voranzutreiben, das schafft das Unternehmen, wie schon gesagt, wahrscheinlich nicht. Aber die Umsetzung der erstbesten und der zweitbesten Strategie wäre vermutlich möglich. So würde ich es machen.“
+„Und das wäre dann die Lösung?“ Aus irgendeinem Grund fühle ich Ungeduld.
+„Es wäre ein starker Anfang für eine Lösung, denn damit die Firma dauerhaft weiter bestehen kann, müsste eine Kultur ständigen Lernens und ständiger Verbesserung implementiert werden. Das haben die meisten Firmen auch noch nicht verstanden. Früher konkurrierten sie regional, dann national, doch nun ist die Konkurrenz international. Wer auf der Weltbühne bestehen will, muss sich ständig anpassen. Was gestern gut war, ist heute wahrscheinlich gerade noch okay und morgen vielleicht obsolet.“
+„Also wieder Iterationen und die Taktung von Entwicklung und Produktion in Zyklen für ein kontinuierliches Lernen?“, frage ich.
+Er nickt und schüttelt dann den Kopf. „Auch das ist noch Teil des starken Anfangs. Nachhaltigkeit im Sinne von Durabilität gewinnt ein Unternehmen nach meiner Überzeugung erst mit der Aktivierung ihrer Schwarmintelligenz.“
+„Weil Schwarmintelligenz ein zentraler Bestandteil der Methode ist, die gleichzeitig die Lösung ist“, bemerke ich.
+„Très bien!“, ruft er, und einen Moment habe ich das Gefühl, dass er mir gleich vor Freude in den Arm fällt.
+
+In Kapitel 4 gelernt:
+Für die Neujustierung eines Geschäftsmodells werden naheliegende und plausible Ideen gebraucht, hier Visionen genannt. Diese Visionen sollten in zwei aufeinanderfolgenden Schritten auf Plausibilität überprüft und in mögliche kraftvolle Strategien übersetzt werden. Schritt eins – Die Beantwortung folgender vier Fragen: Braucht die Welt, was die unternehmerische Vision repräsentiert? Ist bei einer Umsetzung der Vision mit einem wirtschaftlichen Erfolg zu rechnen? Ist das Unternehmen fachlich in der Lage, die Vision umzusetzen (weil die dafür notwendige Expertise vorhanden ist)? Werden diejenigen, die an der Umsetzung der Vision arbeiten werden, davon überzeugt (also mit Hingabe und persönlichem Einsatz dabei) sein?
+Wenn diese vier Fragen von Wissensträgern im Unternehmen beantwortet und dabei auch mit mathematischen Mitteln (mehr dazu in einem späteren Kapitel) gewichtet werden, ist eine Hierarchisierung plausibler Ideen/Visionen für eine neues Geschäftsmodell möglich.
+Das Ergebnis ist eine Prio-Eins-, Prio-Zwei-, Prio-Drei-Vision für ein angepasstes und nachhaltig tragfähiges Geschäftsmodells, also ein möglicher neuer Unternehmenszweck. Die Validierung dieses Zwecks erfolgt nun in einem zweiten Schritt. Wieder vier Fragen. Die erste – Was ist der Zweck? – beantwortet sich von allein. Denn der Zweck (im Sinne einer Vision eines neuen Geschäftsmodells) wird ja als Ergebnis der Beantwortung und Gewichtung der vorausgegangenen Fragen „mitgebracht“. Bleiben drei Fragen übrig. Erstens: Welche Werte sind hinsichtlich des Zwecks relevant und müssen daher einbezogen werden? Zweitens: Wieviel Energie muss für die Umsetzung der Vision (für ein neues Geschäftsmodell) aufgebracht werden? Im Wesentlichen Zeit und Geld. Drittens: Was sind die Gegebenheiten (was ist die Realität?) bei der Umsetzung der Vision? Dies betrifft etwa gesetzliche Bestimmungen wie auch Konsumentenverhalten und gesellschaftliche Gegebenheiten überhaupt. Auch diese Fragen beantworten entsprechende Wissensträger und bewerten sie auch numerisch für eine Mathematisierbarkeit des Verfahrens.
+Doch um eine Vision strategisch umzusetzen und auch erfolgreich in Produkte zu übersetzen, ist deren Entwicklung in Zyklen, im Folgenden Iterationen genannt, elementar. Aus Iterationen ergibt sich eine Taktung der Entwicklung, die – flankiert von regelmäßigen Meetings, nachfolgend „Zeremonien“ genannt – eine Kultur ständigen Lernens und ständiger Verbesserung schafft.
