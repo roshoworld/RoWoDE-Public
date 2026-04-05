@@ -1,8 +1,10 @@
 # Rosho.World — Die Methode ist die Lösung
 
-*von OJ, herausgegeben von Robert „Rosho" Hopp*
+Ursprünglich geschrieben von Otmar Jenner mit Yuko Osao, veröffentlicht von Yuko Osao - Rosho.World OÜ\
+Lizenziert unter Creative Commons Namensnennung 4.0 (CC BY 4.0)\
+Übersetzte englische Version
 
----
+***
 
 ## Über dieses Buch
 
@@ -20,20 +22,20 @@ Die Methode, die sie alle entdecken, ist kein proprietäres Framework aus Worksh
 
 Dieses Buch hat eine Fortsetzung — oder vielmehr eine Weiterentwicklung.
 
-*Augmented Governance — A Framework for the Intelligence That Comes Next* nimmt die hier eingeführten Prinzipien und erweitert sie für das Zeitalter der KI. Wo *Rosho.World* die Methode durch Geschichten und Fallstudien zeigt, baut *Augmented Governance* die Architektur für das, was als Nächstes kommt: Governance, die nicht nur für menschliche Organisationen funktioniert, sondern auch für die hybriden Mensch-Maschine-Systeme, die wir heute bauen.
+_Augmented Governance — A Framework for the Intelligence That Comes Next_ nimmt die hier eingeführten Prinzipien und erweitert sie für das Zeitalter der KI. Wo _Rosho.World_ die Methode durch Geschichten und Fallstudien zeigt, baut _Augmented Governance_ die Architektur für das, was als Nächstes kommt: Governance, die nicht nur für menschliche Organisationen funktioniert, sondern auch für die hybriden Mensch-Maschine-Systeme, die wir heute bauen.
 
-Wenn *Rosho.World* die Wurzeln sind, ist *Augmented Governance* die Architektur.
+Wenn _Rosho.World_ die Wurzeln sind, ist _Augmented Governance_ die Architektur.
 
 Beide Bücher können unabhängig voneinander gelesen werden. Zusammen erzählen sie die ganze Geschichte.
 
 ## Wo Sie dieses Buch finden
 
-- **GitBook** — das primäre Leseerlebnis, immer aktuell
-- **GitHub** — die Single Source of Truth
-- **LinkedIn, Medium, Substack** — ausgewählte Kapitel und Essays
+* **GitBook** — das primäre Leseerlebnis, immer aktuell
+* **GitHub** — die Single Source of Truth
+* **LinkedIn, Medium, Substack** — ausgewählte Kapitel und Essays
 
 Jedes Kapitel bietet die Möglichkeit, das Gespräch mit dem Rosho Alter fortzusetzen — einer KI-Repräsentation von Robert Rosho Hopp, trainiert auf den Ideen beider Bücher.
 
----
+***
 
-*Yokohama, 2026*
+_Yokohama, 2026_
