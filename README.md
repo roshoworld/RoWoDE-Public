@@ -2,7 +2,7 @@
 
 Ursprünglich geschrieben von Otmar Jenner mit Yuko Osao, veröffentlicht von Yuko Osao - Rosho.World OÜ\
 Lizenziert unter Creative Commons Namensnennung 4.0 (CC BY 4.0)\
-Übersetzte englische Version
+[Englische Version](https://rosho.gitbook.io/rosho.world-the-method-is-the-solution/)
 
 ***
 
