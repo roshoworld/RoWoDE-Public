@@ -4,6 +4,8 @@ Ursprünglich geschrieben von Otmar Jenner mit Yuko Osao, veröffentlicht von Yu
 Lizenziert unter Creative Commons Namensnennung 4.0 (CC BY 4.0)\
 [Englische Version](https://rosho.gitbook.io/rosho.world-the-method-is-the-solution/)
 
+Kontakte: [Otmar Jenner](mailto:o.jenner@gmx.de) - [Yuko Osao](mailto:yuko@rosho.world) - [Rosho](mailto:rosho@rosho.world)
+
 ***
 
 ## Über dieses Buch
